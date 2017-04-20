@@ -15,7 +15,7 @@ NOTE: You will create a scheduling diagram for every lab from now on!
 
 ### Grad students
 
-- [ ] Implement the [LLF](https://en.wikipedia.org/wiki/Least_slack_time_scheduling) in Zephyr.
+- [ ] Implement the [LLF](https://en.wikipedia.org/wiki/Least_slack_time_scheduling) schedualer in Zephyr.
 
 ## What you need to turn in
 Note: As with all labs going forward everything should be saved to a directory called solution in your repository.
